@@ -1,6 +1,6 @@
 # danieltak.github.io
 
-* [Curriculum Vitae (CV) com Portfolio](https://danieltak.github.io)
+* [Curriculum Vitae (CV) with Portfolio](https://danieltak.github.io)
 
 <h1 align="center">Greetings 👋, I'm Daniel Watanabe</h1>
 <h3 align="center">A passionate developer and engineer from Brazil</h3>
