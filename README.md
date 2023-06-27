@@ -13,7 +13,7 @@
 </div>
 
 <div>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?danieltak" frameborder="0"></iframe>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?danieltak"></iframe>
 </div>
   
 <h3 align="left">Connect with me:</h3>
