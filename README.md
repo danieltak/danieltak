@@ -9,12 +9,9 @@
 
 <div>
   <img width=400em src="https://github-readme-stats.vercel.app/api?username=danieltak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltak&layout=compact&hide_borders=true&theme=dracula"/>
+ <!-- <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltak&layout=compact&hide_borders=true&theme=dracula"/> -->
 </div>
 
-<div>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?danieltak"></iframe>
-</div>
   
 <h3 align="left">Connect with me:</h3>
 
