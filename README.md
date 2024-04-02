@@ -1,6 +1,6 @@
 # [BLOG](https://danieltak.com.br)
 
-Personal Blog: https://danieltak.com.br/
+Personal Blog (Portuguese): https://danieltak.com.br/
 
 # danieltak.github.io
 
