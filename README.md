@@ -1,3 +1,7 @@
+# [BLOG](https://danieltak.com.br)
+
+Personal Blog: https://danieltak.com.br/
+
 # danieltak.github.io
 
 * [Curriculum Vitae (CV) with Portfolio](https://danieltak.github.io)
