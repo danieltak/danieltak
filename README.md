@@ -5,7 +5,6 @@ Personal Blog (Portuguese): https://danieltak.com.br/
 # danieltak.github.io
 
 * [Curriculum Vitae (CV) with Portfolio](https://danieltak.github.io)
-* [Studies and Research](https://github.com/danieltak/studies-and-research)
 
 <h1 align="center">Greetings 👋, I'm Daniel Watanabe</h1>
 <h3 align="center">A passionate developer and engineer from Brazil</h3>
